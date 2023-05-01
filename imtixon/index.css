@@ -1,0 +1,2305 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif, 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.katta {
+    overflow: hidden;
+    max-width: 1440px;
+    margin: 0 auto;
+    position: relative;
+    background: rgb(223, 209, 192);
+}
+
+.menyu {
+    padding: 30px 0 0 0;
+    margin: 0 0 0 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.plant {
+    font-size: 24px;
+    color: #1A1A1A;
+}
+
+.menyu ul li {
+    display: inline-block;
+}
+
+ul {
+    display: flex;
+    gap: 48px;
+}
+
+li a {
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.ulash {
+    align-items: center;
+    display: flex;
+    gap: 48px;
+}
+
+.ulash h6 {
+    cursor: pointer;
+    width: 69px;
+    height: 38px;
+    font-size: 16PX;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #066F14;
+    border-radius: 4px;
+}
+
+.umm {
+    position: relative;
+}
+
+.home {
+    margin: 102.3px 144px 0;
+}
+
+.home1 {
+    width: 548px;
+    height: 276px;
+    font-size: 72px;
+    line-height: 92px;
+    color: #1A1A1A;
+
+}
+
+.lorem {
+    padding: 24px 0 0;
+    width: 504px;
+    height: 78px;
+    font-size: 16px;
+    line-height: 25px;
+    color: #4A4A4A;
+}
+
+.more {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0 0;
+    width: 160px;
+    height: 55px;
+    background: #066F14;
+    border-radius: 4px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.ming h3 {
+    width: 108px;
+    height: 49px;
+    font-size: 36px;
+    line-height: 49px;
+    color: #001B04;
+}
+
+.ming {
+    padding: 70px 0 0;
+    display: flex;
+    gap: 112px;
+}
+
+.ming p {
+    padding: 10px 0 0 12px;
+    width: 92px;
+    height: 23px;
+    font-size: 18px;
+    line-height: 23px;
+    color: #1A1A1A;
+}
+
+.rasm1 {
+    width: 557px;
+    height: 719px;
+    display: flex;
+    position: absolute;
+    left: 55.16%;
+    right: 4.16%;
+    top: 0.4%;
+    bottom: 20.66%;
+
+}
+
+.line {
+    display: flex;
+    width: 100px;
+    height: 15px;
+    background-color: #066F14
+}
+
+.rasm2 {
+    display: flex;
+    transform: rotate(3.49deg);
+    position: absolute;
+    left: 47.31%;
+    right: 44.37%;
+    top: 60.06%;
+    bottom: 22.58%;
+    width: 157px;
+    height: 195px;
+    justify-content: center;
+    object-fit: cover;
+
+}
+
+.rasm1 .ras {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    left: 87.14%;
+    right: 0%;
+    top: 19.11%;
+    bottom: 74.49%;
+    background: rgba(6, 111, 20, 0.7);
+    border-radius: 4px;
+    width: 100px;
+    height: 40px;
+    color: #FFFFFF;
+}
+
+.ras1 {
+    display: flex;
+    position: absolute;
+    left: 8.78%;
+    right: 72.82%;
+    top: 31.44%;
+    bottom: 62.15%;
+    color: #FFFFFF;
+    background: rgba(6, 111, 20, 0.7);
+    border-radius: 4px;
+    width: 94px;
+    height: 41px;
+    align-items: center;
+}
+
+.ras2 {
+    display: flex;
+    position: absolute;
+    left: 87.14%;
+    right: 1.02%;
+    top: 77.39%;
+    bottom: 16.2%;
+    background: rgba(6, 111, 20, 0.7);
+    border-radius: 4px;
+    align-items: center;
+    width: 94px;
+    height: 41px;
+    color: #FFFFFF;
+}
+
+.ikki {
+    padding: 224px 144px 130px;
+    display: flex;
+    gap: 62px;
+}
+
+.we {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 59px;
+    color: #1A1A1A;
+    width: 450px;
+    height: 188px;
+}
+
+.see {
+    display: flex;
+    align-items: center;
+    width: 140px;
+    height: 23px;
+    color: #4A4A4A;
+}
+
+.see img {
+    width: 13px;
+    height: 10px;
+}
+
+.rasim3 {
+    display: flex;
+    gap: 4px;
+}
+
+.rasim31 {
+    padding: 22px 28px;
+    width: 200px;
+    height: 190px;
+    background: #F0F1F6;
+    border-radius: 4px;
+}
+
+.rasim311 {
+    padding: 22px 21px;
+    width: 200px;
+    height: 190px;
+    background: #F6EDE8;
+    border-radius: 4px;
+}
+
+.uch {
+    display: flex;
+}
+
+.rasim4 {
+    padding: 30px 80px 0 214px;
+}
+
+.rasim4 img {
+    box-shadow: -70px -40px #066F14;
+}
+
+.us {
+    margin: 0 0 30px o;
+    width: 79px;
+    height: 23px;
+    font-size: 18px;
+    line-height: 23px;
+    color: #066F14;
+}
+
+.conti {
+    width: 469px;
+    height: 100px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 50px;
+    color: #1A1A1A;
+}
+
+.sit {
+    padding: 20px 0;
+    width: 504px;
+    font-size: 16px;
+    line-height: 25px;
+    color: #4A4A4A;
+}
+
+.amet {
+    width: 504px;
+    height: 58px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 160%;
+    padding: 20px 0;
+    color: #4A4A4A;
+}
+
+.read {
+    cursor: pointer;
+    margin: 36px 0 0 0;
+    padding: 16px 32px;
+    width: 155px;
+    height: 55px;
+    background: #066F14;
+    border-radius: 4px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.tort {
+    padding: 120px 144px 0;
+    position: relative;
+}
+
+.our {
+    width: 400px;
+    height: 50px;
+    position: absolute;
+    left: 36.11%;
+    right: 36.11%;
+    top: 12%;
+    bottom: 90.44%;
+    font-size: 40px;
+    color: #1A1A1A;
+}
+
+.plants {
+    width: 94px;
+    height: 23px;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 23px;
+    color: #066F14;
+}
+
+.new {
+    align-items: center;
+    justify-content: center;
+    padding: 50px 20px;
+    display: flex;
+    /* gap: 34px; */
+}
+
+.arr {
+    display: flex;
+    justify-content: center;
+    gap: 34px;
+    width: 244px;
+    height: 21px;
+    font-size: 16px;
+    color: #4A4A4A;
+}
+
+.rasim5 {
+    padding: 0 0 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.rasim5 .gul {
+    padding: 5px;
+    margin: 0 auto;
+}
+
+.pul {
+    padding: 20px;
+    width: 200px;
+    background: #EAF2E5
+}
+
+.pul2 {
+    padding: 20px;
+    width: 200px;
+    background: #F0EBE6;
+}
+
+.pul .pul2 p {
+    padding: 5px;
+}
+
+.alll {
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    padding: 20px 15px;
+    margin: 0 auto;
+    background: #066F14;
+    border-radius: 4px;
+    width: 100px;
+    height: 30px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.besh {
+    padding: 144px;
+    position: relative;
+    height: 520px;
+}
+
+.besh11 {
+    width: 494px;
+    height: 50px;
+    font-size: 32px;
+    line-height: 50px;
+    color: #1A1A1A;
+}
+
+.besh12 {
+    padding: 16px 0 0;
+    width: 502px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #4A4A4A;
+}
+
+.besh2 {
+    padding: 20px 24px 30px 32px;
+    position: absolute;
+    left: 10.6%;
+    right: 48.18%;
+    top: 63.56%;
+    bottom: 1%;
+    background: #066F14;
+    z-index: 2;
+}
+
+.besh21 {
+    align-items: center;
+    display: flex;
+    gap: 10px;
+}
+
+.besh24 {
+    width: 115px;
+    height: 25px;
+    font-size: 18px;
+    color: #FFFFFF;
+}
+
+.besh25 {
+    width: 96px;
+    height: 18px;
+    font-size: 14px;
+    line-height: 18px;
+    color: #D9D9D9;
+}
+
+.besh3 {
+    position: absolute;
+    left: 88%;
+    top: 11.15%;
+    bottom: 11.15%;
+}
+
+.besh4 {
+    position: absolute;
+    left: 2.78%;
+    right: 5.65%;
+    top: 45.88%;
+    font-size: 16px;
+    line-height: 160%;
+    padding: 5px 15px;
+    color: #ECECEC;
+}
+
+.besh52 {
+    padding: 0 3.5px;
+    position: absolute;
+    left: 96.5%;
+    right: 0%;
+    top: 90.42%;
+    bottom: 0%;
+    background: #FFFFFF;
+}
+
+.besh51 {
+    padding: 0 3.5px;
+    position: absolute;
+    left: 92.5%;
+    right: 0%;
+    top: 90.42%;
+    bottom: 0%;
+    background: #0c2c10
+}
+
+.besh6 {
+    position: absolute;
+    left: 47.74%;
+    right: 0%;
+    top: 30%;
+    bottom: 3%;
+}
+
+.olti {
+    background-color: #DFFFE3;
+    margin: 207px 200px 80px;
+    border-radius: 6px;
+}
+
+.olt {
+    padding: 60px;
+    position: absolute;
+}
+
+.olti1 {
+    width: 575px;
+    height: 50px;
+    font-size: 40px;
+    line-height: 50px;
+    color: #1A1A1A;
+}
+
+.olti2 {
+    padding: 12px 0 20px;
+    width: 458px;
+    height: 52px;
+    font-size: 16px;
+    line-height: 160%;
+    color: #4A4A4A;
+}
+
+.olti3 {
+    margin: 30px 0;
+    display: flex;
+    align-items: center;
+    width: 441px;
+    height: 56px;
+    background: #FFFFFF;
+    border-radius: 4px;
+    color: #5A5A5A;
+}
+
+.olti3 input {
+    height: 40px;
+    width: 400px;
+    padding: 0 0 0 15px;
+    /* flex-direction: row; */
+    border: none;
+}
+
+.olti3 form {
+    display: flex;
+}
+
+.olti3 .olti31 {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 90px;
+    height: 40px;
+    background: #066F14;
+    border-radius: 4px;
+    color: #FFFFFF;
+}
+
+.olti4 {
+    position: relative;
+    left: 72.5%;
+    right: 2.31%;
+    top: 0%;
+    bottom: 0%;
+}
+
+.yetti {
+    padding: 0px 400px;
+}
+
+.yetti1 {
+    padding: 73px 0;
+    width: 624px;
+    height: 57px;
+    font-size: 45px;
+    line-height: 57px;
+    color: #1A1A1A;
+}
+
+.yetti2 {
+    width: 544px;
+    height: 52px;
+    font-size: 16px;
+    line-height: 160%;
+    text-align: center;
+    color: #4A4A4A;
+}
+
+.sakiz {
+    padding: 25px 0 0 0;
+    margin: 0 0 0 144px;
+    position: relative;
+}
+
+.toqiz {
+    padding: 120px 144px 90px;
+    display: flex;
+    gap: 128px;
+    line-height: 40px;
+}
+
+.toqiz11 {
+    width: 60px;
+    height: 31px;
+    font-size: 34px;
+    color: #1A1A1A;
+    display: flex;
+}
+
+.toqiz12 {
+    padding: 26px 0 20px 0;
+    width: 306px;
+    height: 78px;
+    font-size: 16px;
+    line-height: 160%;
+    color: #5A5A5A;
+}
+
+.toqiz122 {
+    display: flex;
+    gap: 20px;
+}
+
+.toqiz13 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 42px 0 0 0;
+    width: 40px;
+    height: 40px;
+    background: #bdeba962;
+    border-radius: 4px;
+}
+
+.toqiz21 {
+    width: 124px;
+    height: 31px;
+    font-size: 24px;
+    line-height: 31px;
+    display: flex;
+    color: #1A1A1A;
+}
+
+.toqiz21 p {
+    padding: 16px;
+    width: 44px;
+    height: 21px;
+    font-size: 16px;
+    line-height: 21px;
+    color: #5A5A5A;
+
+}
+
+.toqiz31 {
+    width: 107px;
+    height: 31px;
+    font-size: 24px;
+    line-height: 31px;
+    color: #1A1A1A;
+}
+
+.toqiz41 {
+
+    width: 54px;
+    height: 31px;
+    font-size: 24px;
+    line-height: 31px;
+    color: #1A1A1A;
+
+}
+
+
+@media screen and (max-width:1361px) {
+    .sakiz img {
+        width: 200px;
+        height: 200px;
+    }
+
+    .toqiz {
+        padding: 120px 130px 90px;
+        gap: 110px;
+    }
+}
+
+@media screen and (max-width:1330px) {
+    .besh11 {
+        width: 400px;
+        font-size: 27px;
+    }
+
+    .besh12 {
+        width: 447px;
+    }
+
+    .rasm1 {
+        width: 450px;
+        height: 650px;
+
+    }
+}
+
+@media screen and (max-width:1280px) {
+
+    .plant {
+        font-size: 20px;
+    }
+
+    .home {
+        margin: 82.3px 124px 0;
+    }
+
+    .rasm1 {
+        width: 457px;
+        height: 619px;
+    }
+
+    .rasm1 .ras {
+        height: 30px;
+        justify-content: center;
+    }
+
+    .ras1 {
+        height: 31px;
+        justify-content: center;
+    }
+
+    .ras2 {
+        height: 31px;
+        justify-content: center;
+    }
+
+    .ikki {
+        align-items: center;
+        gap: 22px;
+    }
+
+    .we {
+        font-size: 30px;
+        width: 420px;
+    }
+
+    .rasim4 {
+        padding: 30px 80px 0 164px;
+    }
+
+    .besh {
+        padding: 92px;
+    }
+
+    .besh2 {
+        left: 7.6%;
+        top: 53.56%;
+    }
+
+    .besh6 {
+        top: 20%;
+    }
+
+    .olti {
+        margin: 149px 150px 80px;
+    }
+
+    .yetti1 {
+        padding: 11px 0;
+        width: 600px;
+        height: 77px;
+    }
+
+    .sakiz img {
+        width: 180px;
+        height: 190px;
+    }
+
+    .sakiz {
+        padding: 40px;
+        margin: 0 0 0 100px;
+    }
+
+    .toqiz {
+        padding: 70px 60px 60px 144px;
+        gap: 90px;
+    }
+
+}
+
+@media screen and (max-width:1190px) {
+    .home1 {
+        width: 500px;
+        height: 260px;
+        font-size: 68px;
+        line-height: 87px;
+    }
+
+    .lorem {
+        width: 450px;
+    }
+
+    .more {
+        margin: 70px 0 0;
+        width: 140px;
+        height: 45px;
+    }
+
+    .ming {
+        gap: 100px;
+    }
+
+    .rasm1 {
+        width: 400px;
+        height: 590px;
+    }
+
+    .ikki {
+        padding: 200px 4px 130px 144px;
+        gap: 2px;
+    }
+
+    .rasim31 {
+        padding: 12px 12px;
+        width: 180px;
+    }
+
+    .rasim311 {
+        padding: 12px 12px;
+        width: 180px;
+    }
+
+    .we {
+        font-size: 27px;
+        width: 400px;
+        line-height: 50px;
+        height: 175px;
+    }
+
+    .rasim4 img {
+        width: 400px;
+        height: 395px;
+        box-shadow: -60px -35px #066f14
+    }
+
+    .rasim4 {
+        padding: 30px 50px 0 144px;
+    }
+
+    .conti {
+        width: 400px;
+        height: 100px;
+        font-size: 27px;
+        line-height: 45px;
+    }
+
+    .sit {
+        padding: 10px 0;
+        width: 450px;
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .amet {
+        width: 450px;
+        height: 48px;
+        font-size: 16px;
+        padding: 5px 0;
+    }
+
+    .besh1 {
+        width: 410px;
+    }
+
+    .besh12 {
+        padding: 10px 0 0;
+        width: 400px;
+        line-height: 24px;
+    }
+
+    .besh2 {
+        bottom: 11%;
+    }
+
+    .besh4 {
+        right: 10%;
+        top: 43.8%;
+        font-size: 14px;
+        padding: 5px 15px;
+    }
+
+    .besh6 {
+        width: 555px;
+    }
+
+    .besh6 img {
+        width: 550px;
+    }
+
+    .olti {
+        margin: 115px 90px 80px;
+    }
+
+    .yetti {
+        padding: 0px 300px;
+    }
+
+    .toqiz {
+        padding: 70px 60px 60px 130px;
+        gap: 70px;
+    }
+}
+
+@media screen and (max-width:1098px) {
+    .ikki {
+        padding: 150px 4px 130px 120px;
+    }  
+    .our {
+        left: 30%;
+        right: 30%;
+    }
+    .pul {
+        padding: 10px;
+        width: 170px;
+    }
+    .pul2 {
+        padding: 10px;
+        width: 170px;
+    }
+    .sakiz {
+        padding: 30px 20px;
+        margin: 0 0 0 80px;
+    }
+    .toqiz {
+        padding: 70px 60px 60px 100px;
+        line-height: 33px;
+    }
+    .toqiz p {
+        font-size: 14px;
+    }
+    .toqiz12 {
+        padding: 10px 0 0 0;
+        width: 284px;
+        height: 65px;
+        line-height: 25px;
+    }
+    .toqiz21 {
+        width: 90px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .toqiz31 {
+        width: 95px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .toqiz41 {
+        width: 54px;
+        font-size: 21px;
+        line-height: 30px;
+    }
+
+}
+@media screen and (max-width:1044px) {
+    .home {
+        margin: 53px 84px 0;
+    }
+    .rasm2 {
+        transform: rotate(10deg);
+        left: 50%;
+        top: 55%;
+        width: 100px;
+        height: 140px;
+    }
+    .ikki {
+        padding: 150px 4px 130px 75px;
+    }
+    .rasim4 {
+        padding: 30px 50px 0 124px;
+    }
+    .sit {
+        width: 420px;
+    }
+    .besh {
+        padding: 90px 0 0 70px;
+    }
+    .besh2 {
+        left: 6.6%;
+        top: 50%;
+    }
+    .olti {
+        margin: 100px 70px 80px;
+    }
+    .yetti {
+        padding: 0px 220px;
+    }
+    .sakiz {
+        padding: 20px 0px;
+        margin: 0 0 0 60px;
+    }
+}
+@media screen and ( max-width:1024px) {
+    .menyu{
+        margin: 0px;
+    }
+    .home {
+        margin: 82.3px 54px 0;
+    }
+    .home1 {
+        width: 458px;
+        height: 206px;
+        font-size: 62px;
+        line-height: 72px;
+    }
+    .more {
+        width: 120px;
+        height: 45px;
+    }
+    .rasm1 {
+        width: 397px;
+        height: 550px;
+    }
+    .rasm2 {
+        left: 52.31%;
+        top: 58.06%;
+        width: 117px;
+        height: 155px;
+    }
+    .rasm1 .ras {
+        height: 30px;
+        font-size: 14px;
+        justify-content: center;
+    }
+    .ras1{
+        height: 31px;
+        font-size: 14px;
+        justify-content: center;
+    }
+    .ras2{
+        height: 31px;
+        font-size: 14px;
+        justify-content: center;
+    }
+    .ikki {
+        padding: 124px 54px 90px;
+    }
+    .we {
+        line-height: 49px;
+        width: 340px;
+        height: 165px;
+    }
+    .rasim3 {
+        gap: 20px;
+        width: 190px;
+    }
+    .rasim31 {
+        padding: 0px 0px;
+        width: 190px;
+        height: 170px;
+        object-fit: cover;
+    }
+    .rasim311 {
+        padding: 0px 0px;
+        width: 200px;
+        height: 170px;
+    }
+    .rasim4 {
+        padding: 30px 80px 0 100px;
+    }
+    .rasim4 img{
+        width: 380px;
+        height: 386px;
+        box-shadow: -50px -30px #066F14;
+    }
+    .conti {
+        width: 400px;
+        height: 80px;
+        font-size: 25px;
+        line-height: 40px;
+    }
+    .sit {
+        padding: 0px 0px;
+        width: 400px;
+        font-size: 14px;
+    }
+    .amet {
+        width: 440px;
+        height: 58px;
+        font-size: 17px;
+        padding: 10px 0;
+    }
+    .read {
+        display: flex;
+        padding: 0px 0px;
+        width: 155px;
+        height: 45px;
+        justify-content: center;
+        align-items: center;
+    }
+    .tort {
+        padding: 100px 74px 0;
+    }
+    .our {
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        font-size: 40px;
+    }
+    .besh11 {
+        width: 430px;
+        font-size: 26px;
+    }
+    .besh12 {
+        width: 400px;
+        height: 90px;
+        font-size: 16px;
+    }
+    .besh2 {
+        left: 7.6%;
+        top: 53.56%;
+        bottom: 10%;
+    }
+    .besh4 {
+        top: 40.88%;
+        font-size: 15px;
+    }
+    .besh6 img{
+        width: 500px;
+        height: 400px;
+    }
+    .olti {
+        margin: 100px 70px 80px;
+    }
+    .yetti {
+        padding: 0px 12px;
+    }
+    .yetti1 {
+        width: 1000px;
+        display: flex;
+        justify-content: center;
+    }
+    .yetti2 {
+        width: 800px;
+        padding: 0 0 0 200px;
+    }
+    .sakiz{
+        padding: 40px 0 20px;
+        margin: 0 0 0 50px;
+    }
+    .sakiz img {
+        width: 180px;
+        height: 183px;
+    }
+    .toqiz{
+        padding: 70px 60px 50px 44px;
+        gap: 70px;
+    }
+}
+@media   screen and ( max-width:980px){
+    .amet {
+        width: 400px;
+        font-size: 16px;
+    }
+    .rasm1 .ras {
+        height: 25px;
+        font-size: 13px;
+        left: 77%;
+        width: 85px;
+    }
+    .ras1{
+        align-items: center;
+        height: 25px;
+        width: 80px;
+        font-size: 13px;
+        left: 8.6%;
+    }
+    .ras2 {
+        height: 25px;
+        font-size: 13px;
+        left: 79%;
+        width: 84px;
+    }
+    .rasim3 {
+        gap: 5px;
+    }
+    .rasim4 {
+        padding: 30px 40px 0 100px;
+    }
+    .besh1 {
+        width: 370px;
+    }
+    .besh11 {
+        width: 370px;
+        font-size: 23px;
+    }
+    .besh12 {
+        width: 370px;
+        height: 100px;
+        font-size: 16px;
+    }
+    .besh22 img{
+        width: 48px;
+        height: 50px;
+    }
+    .besh24 {
+        height: 20px;
+    }
+    .besh4 p{
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .olt {
+        padding: 60px 0 0 60px;
+    }
+    .olti1 {
+        width: 480px;
+        height: 50px;
+        font-size: 33px;
+        line-height: 30px;
+    }
+    .olti3 {
+        margin: 50px 0;
+        width: 400px;
+        height: 40px;
+    }  
+    .olti3 .olti31 {
+        font-size: 15px;
+        height: 30px;
+    }
+    .olti4 img{
+        width: 200px;
+        height: 300px;
+    }
+    .yetti1 {
+        font-size: 35px;
+        width: 980px;
+    }
+    .sakiz {
+        padding: 20px 0 0 0;
+    }
+    .sakiz img{
+        width: 160px;
+        height: 164px;
+    }
+
+}
+@media   screen and ( max-width:920px){
+    .toqiz12 {
+        width: 250px;
+    }
+
+}
+@media screen and  (max-width:912px) {
+    .ulash h6 {
+        height: 25px;
+        font-size: 15px;
+    }
+    .ulash {
+        gap: 30px;
+    }
+    .home {
+        margin: 52.3px 44px 0;
+    }
+    .home1 {
+        width: 388px;
+        height: 190px;
+        font-size: 55px;
+        line-height: 62px;
+    }
+    .lorem {
+        width: 400px;
+        height: 65px;
+        font-size: 14px;
+    }
+    .more {
+        width: 100px;
+        height: 35px;
+    }
+    .ming {
+        gap: 70px;
+    }
+    .ming h3 {
+        width: 72px;
+        font-size: 26px;
+        line-height: 40px;
+    }
+    .ming p {
+        padding: 0px 0 0 0px;
+        width: 92px;
+        height: 10px;
+        font-size: 16px;
+        line-height: 23px;
+    }
+    .rasm1 {
+        width: 320px;
+        height: 480px;
+    }
+    .rasm2{
+        width: 100px;
+        height: 130px;
+    }
+    .ikki {
+        padding: 100px 34px 90px;
+    }
+    .we {
+        line-height: 42px;
+        width: 333px;
+        height: 140px;
+        font-size: 25px;
+    }
+    .rasim31 {
+        width: 170px;
+        height: 160px;
+    }
+    .rasim311 {
+        width: 170px;
+        height: 160px;
+    }
+    .rasim4 {
+        padding: 30px 40px 0 65px;
+    }
+    .rasim4 img {
+        width: 350px;
+        height: 340px;
+        box-shadow: -35px -20px #066f14;
+    }
+    .read {
+        width: 115px;
+        height: 35px;
+        margin: 30px 0 0 0;
+    }
+    .yetti {
+        padding: 10px 0px;
+    }
+    .yetti1 {
+        font-size: 33px;
+        width: 880px;
+    }
+    .yetti2 {
+        width: 880px;
+        font-size: 15px;
+        padding: 0 120px;
+    }
+    .sakiz img {
+        width: 150px;
+        height: 154px;
+    }
+    .besh12 {
+        width: 330px;
+        height: 100px;
+        font-size: 15px;
+    }
+    .besh4 p {
+        font-size: 12px;
+        line-height: 17px;
+    }
+    .besh6 {
+        width: 425px;
+        left: 50%;
+    }
+    .besh6 img {
+        width: 420px;
+        height: 390px;
+    }
+    .toqiz {
+        padding: 70px 10px 38px 44px;
+        gap: 63px;
+    }
+}
+@media screen and  (max-width:870px) {
+    .rasm1 {
+        width: 320px;
+        height: 420px;
+    }
+    li a {
+        font-size: 13px;
+        text-decoration: none;
+    }
+    ul {
+        gap: 30px;
+    }
+    .kichik{
+        width: 280px;
+    }
+    .we {
+        line-height: 38px;
+        width: 280px;
+        height: 130px;
+        font-size: 22px;
+    }
+    .rasim4 {
+        padding: 30px 30px 0 65px;
+    }
+    .sit {
+        width: 370px;
+        font-size: 13px;
+    }
+    .amet {
+        width: 350px;
+        font-size: 15px;
+    }
+    .olt {
+        padding: 50px 0 0 30px;
+    }
+    .olti1 {
+        width: 430px;
+        height: 50px;
+        font-size: 28px;
+        line-height: 30px;
+    }
+    .olti2 {
+        padding: 11px 0 0px;
+        width: 370px;
+        height: 40px;
+        font-size: 15px;
+        line-height: 26px;
+    }
+}
+@media screen and  (max-width:817px){
+    .ulash {
+        gap: 15px;
+        font-size: 14px;
+    }
+    .ulash h6 {
+        height: 21px;
+        font-size: 13px;
+        width: 55px;
+    }
+    .kichik {
+        width: 265px;
+    }
+    .we {
+        line-height: 35px;
+        width: 222px;
+        height: 125px;
+        font-size: 18px;
+    }
+    .see {
+        width: 139px;
+        font-size: 12px;
+        height: 17px;
+    }
+    .rasim31 {
+        width: 140px;
+        height: 145px;
+    }
+    .rasim31 img {
+        width: 140px;
+        height: 145px;
+    }
+    .rasim311 {
+        width: 140px;
+        height: 145px;
+    }
+    .rasim311 img {
+        width: 140px;
+        height: 145px;
+    }
+    .rasim4 img {
+        width: 315px;
+        height: 321px;
+        box-shadow: -26px -17px #066f14;
+    }
+    .us {
+        width: 68px;
+        height: 41px;
+        font-size: 16px;
+        line-height: 50px;
+    }
+    .conti {
+        width: 350px;
+        height: 66px;
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .sit {
+        width: 291px;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .amet {
+        width: 293px;
+        font-size: 13px;
+    }
+    .read {
+        width: 95px;
+        height: 26px;
+        margin: 19px 0 0 0;
+        font-size: 14px;
+    }
+    .our {
+        left: 0%;
+        right: 0%;
+        font-size: 30px;
+    }
+    .plants {
+        width: 81px;
+        height: 25px;
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .arr {
+        gap: 25px;
+        width: 200px;
+        font-size: 14px;
+    }
+    .pul {
+        width: 140px;
+    }
+    .pul p{
+        font-size: 12px;
+    }
+    .pul2 {
+        width: 140px;
+    }
+    .pul2 p{
+        font-size: 12px;
+    }
+    .alll {
+        padding: 0px 0px;
+        justify-content: center;
+        width: 81px;
+        height: 25px;
+        font-size: 15px;
+    }
+    .besh11 {
+        width: 296px;
+        font-size: 20px;
+    }
+    .besh12 {
+        width: 293px;
+        height: 110px;
+        font-size: 13px;
+    }
+    .besh {
+        padding: 90px 0 0 50px;
+    }
+    .besh2 {
+        padding: 10px 20px 10px;
+        left: 5.5%;
+        top: 49%;
+        bottom: 20%;
+        right: 45%;
+    }
+    .besh6 {
+        width: 365px;
+    }
+    .besh6 img {
+        width: 365px;
+        height: 332px;
+    }
+    .olti {
+        margin: 40px 35px;
+    }
+    .olt {
+        padding: 30px 0 0 30px;
+    }
+    .olti4 img {
+        width: 180px;
+        height: 250px;
+    }
+    .olti4 {
+        left: 77.5%;
+    }
+    .yetti1 {
+        font-size: 27px;
+        width: 800px;
+    }
+    .yetti2 {
+        width: 787px;
+        font-size: 15px;
+        padding: 0px 100px;
+    }
+    .sakiz {
+        margin: 0px 0 0 30px;
+    }
+    .sakiz img {
+        width: 140px;
+        height: 144px;
+    }
+    .toqiz {
+        padding: 60px 0px 35px 26px;
+        gap: 45px;
+    }
+    .toqiz11 {
+        height: 26px;
+        font-size: 27px;
+    }
+    .toqiz p {
+        font-size: 12px;
+    }
+    .toqiz12 {
+        width: 214px;
+        height: 50px;
+        line-height: 24px;
+    }
+}
+@media screen and  (max-width:749px){
+    .home1 {
+        width: 320px;
+        height: 140px;
+        font-size: 41px;
+        line-height: 50px;
+    }
+    .lorem {
+        width: 335px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .more {
+        width: 70px;
+        height: 23px;
+        font-size: 12px;
+    }
+    .ming {
+        gap: 30px;
+        padding: 30px 0 0 0;
+    }
+    .ming h3 {
+        width: 60px;
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .ming p {
+        width: 80px;
+        height: 20px;
+        font-size: 14px;
+        line-height: 5px;
+    }
+    .rasm2 {
+        width: 60px;
+        height: 100px;
+    }
+    .rasm1 {
+        width: 240px;
+        height: 380px;
+    }
+    .ras1 {
+        height: 18px;
+        width: 69px;
+        font-size: 10px;
+        left: 8%;
+        border-radius: 3px;
+    }
+    .rasm1 .ras {
+        height: 17px;
+        font-size: 10px;
+        left: 80%;
+        width: 72px;
+        border-radius: 3px;
+    }
+    .ras2 {
+        height: 17px;
+        font-size: 10px;
+        left: 87%;
+        width: 65px;
+    }
+    .ikki {
+        padding: 70px 34px 65px;
+    }
+    .kichik {
+        width: 225px;
+    }
+    .we {
+        line-height: 30px;
+        width: 198px;
+        height: 100px;
+        font-size: 16px;
+    }
+    .rasim31 {
+        width: 120px;
+        height: 125px;
+    }
+    .rasim31 img {
+        width: 120px;
+        height: 119px;
+    }
+    .rasim311 {
+        width: 120px;
+        height: 125px;
+    }
+    .rasim311 img {
+        width: 120px;
+        height: 119px;
+    }
+    .rasim4 img {
+        width: 285px;
+        height: 290px;
+        box-shadow: -26px -17px #066f14;
+    }
+    .conti {
+        width: 255px;
+        height: 60px;
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .amet {
+        width: 293px;
+        font-size: 13px;
+        height: 44px;
+    }
+    .read {
+        width: 80px;
+        height: 22px;
+        font-size: 12px;
+    }
+    .tort {
+        padding: 60px 40px 0;
+    }
+    .our {
+        font-size: 25px;
+    }
+    .plants {
+        width: 66px;
+        height: 20px;
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .arr {
+        gap: 15px;
+        width: 160px;
+        font-size: 13px;
+        height: 17px;
+    }
+    .besh {
+        padding: 90px 0 0 40px;
+    }
+    .yetti1 {
+        font-size: 25px;
+        width: 700px;
+    }
+    .yetti2 {
+        width: 700px;
+        font-size: 13px;
+        padding: 0px 84px;
+    }
+    .sakiz img {
+        width: 125px;
+        height: 120px;
+    }
+}
+@media screen and  (max-width:675px){
+    .plant {
+        font-size: 16px;
+    }
+    li a {
+        font-size: 11px;
+        text-decoration: none;
+    }
+    .ulash {
+        font-size: 12px;
+    }
+    .ulash h6 {
+        height: 19px;
+        font-size: 11px;
+        width: 52px;
+    }
+    .home {
+        margin: 48px 30px 0;
+    }
+    .rasm1 {
+        width: 240px;
+        height: 340px;
+    }
+    .ikki {
+        padding: 60px 25px 65px;
+    }
+    .rasim4 {
+        padding: 30px 30px 0 45px;
+    }
+    .rasim4 img {
+        width: 250px;
+        height: 255px;
+        box-shadow: -20px -12px #066f14;
+    }
+    .us {
+        width: 50px;
+        height: 35px;
+        font-size: 12px;
+    }
+    .conti {
+        width: 212px;
+        height: 51px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .sit {
+        width: 267px;
+        font-size: 11px;
+        line-height: 14px;
+    }
+    .amet {
+        width: 271px;
+        font-size: 12px;
+        height: 40px;
+    }
+    .pul {
+        width: 120px;
+        height: 160px;
+    }
+    .rasim5 .gul {
+        width: 100px;
+        height: 100px;
+    }
+    .pul2 {
+        width: 120px;
+        height: 160px;
+    }
+    .besh11 {
+        width: 251px;
+        font-size: 17px;
+    }
+    .besh12 {
+        width: 240px;
+        font-size: 11px;
+        padding: 0 0 0;
+    }
+    .besh22 img {
+        width: 34px;
+        height: 34px;
+    }
+    .besh24 {
+        height: 14px;
+        font-size: 14px;
+    }
+    .besh25 {
+        height: 18px;
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .besh3 {
+        left: 85%;
+        top: 7.15%;
+    }
+    .besh3 img{
+        width: 15px;
+        height: 25px;
+    }
+    .besh4 p {
+        font-size: 9px;
+        line-height: 16px;
+    }
+    .besh4 {
+        top: 37%;
+    }
+    .besh2 {
+        bottom: 28%;
+    }
+    .besh51 {
+        left: 89.5%;
+        top: 86.42%;
+        bottom: 1%;
+    }
+    .besh52 {
+        left: 95%;
+        top: 86.42%;
+    }
+    .besh6 img {
+        width: 275px;
+        height: 280px;
+    }
+    .olti1 {
+        width: 344px;
+        height: 34px;
+        font-size: 24px;
+        line-height: 32px;
+    }
+    .olti2 {
+        width: 310px;
+        height: 40px;
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .olti3 input {
+        height: 25px;
+        width: 309px;
+    }
+    .olti3 .olti31 {
+        font-size: 12px;
+        height: 24px;
+    }
+    .olti4 {
+        left: 75%;
+    }
+    .olti4 img {
+        width: 150px;
+        height: 210px;
+    }
+    .olti3 {
+        width: 337px;
+        height: 30px;
+    }
+    .sakiz img {
+        width: 115px;
+        height: 110px;
+    }
+    
+    .toqiz {
+        padding: 54px 0px 35px 25px;
+        gap: 35px;
+    }
+    .toqiz p{
+        font-size: 11px;
+        line-height: 23px;
+    }
+    .toqiz3{
+        width: 80px;
+    }
+    .toqiz122 {
+        gap: 1px;
+    }
+    .toqiz122 img {
+        width: 12px;
+        height: 14px;
+    }
+}
+@media screen and (max-width:622px) {
+    .menyu{
+        padding: 15px 0 0 0 ;
+    }
+    .plant {
+        font-size: 13px;
+    }
+    ul {
+        gap: 18px;
+    }
+    li a {
+        font-size: 10px;
+    }
+    .ulash {
+        font-size: 10px;
+    }
+    .ulash h6 {
+        height: 16px;
+        font-size: 10px;
+        width: 39px;
+        border-radius: 3px;
+    }
+    .home1 {
+        width: 244px;
+        height: 120px;
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .lorem {
+        line-height: 18px;
+        width: 280px;
+        height: 30px;
+        font-size: 10px;
+        padding: 15px 0 0;
+    }
+    .more {
+        width: 55px;
+        height: 18px;
+        font-size: 10px;
+        border-radius: 2px;
+    }
+    .ming {
+        gap: 25px;
+    }
+    .ming h3 {
+        width: 50px;
+        font-size: 17px;
+        line-height: 23px;
+    }
+    .ming p {
+        width: 75px;
+        height: 20px;
+        font-size: 11px;
+        line-height: 0px;
+    }
+    .rasm2 {
+        width: 50px;
+        height: 70px;
+    }
+    .rasm1 {
+        width: 190px;
+        height: 310px;
+    }
+    .rasm1 .ras {
+        height: 13px;
+        font-size: 8px;
+        left: 85%;
+        width: 54px;
+        border-radius: 2px;
+    }
+    .ras1 {
+        height: 13px;
+        width: 50px;
+        font-size: 8px;
+        left: 10%;
+        border-radius: 2px;
+    }
+    .ras2 {
+        height: 13px;
+        font-size: 8px;
+        left: 93%;
+        width: 52px;
+        border-radius: 2px;
+    }
+    .ikki {
+        padding: 40px 25px 50px;
+    }
+    .kichik {
+        width: 200px;
+    }
+    .we {
+        line-height: 25px;
+        width: 161px;
+        height: 85px;
+        font-size: 13px;
+    }
+    .see {
+        width: 92px;
+        font-size: 10px;
+        height: 10px;
+    }
+    .see img {
+        width: 10px;
+        height: 8px;
+    }
+    .rasim3{
+        width: 320px;
+    }
+    .rasim31 {
+        width: 100px;
+        height: 110px;
+    }
+    .rasim311 {
+        width: 100px;
+        height: 110px;
+    }
+    .rasim31 img {
+        width: 100px;
+        height: 110px;
+    }
+    .rasim311 img {
+        width: 100px;
+        height: 110px;
+    }
+    .rasim4 img {
+        width: 210px;
+        height: 220px;
+        box-shadow: -18px -10px #066f14;
+    }
+    .us {
+        width: 50px;
+        height: 30px;
+        font-size: 10px;
+    }
+    .conti {
+        width: 185px;
+        height: 43px;
+        font-size: 13px;
+        line-height: 21px;
+    }
+    .sit {
+        width: 260px;
+        font-size: 10px;
+        line-height: 15px;
+    }
+    .amet {
+        width: 250px;
+        font-size: 11px;
+        height: 30px;
+        padding: 5px 0;
+    }
+    .read {
+        width: 60px;
+        height: 17px;
+        font-size: 10px;
+        border-radius: 2px;
+    }
+    .besh {
+        padding: 38px 0 0 40px;
+        height: 340px;
+    }
+    .besh11 {
+        width: 222px;
+        font-size: 15px;
+    }
+    .besh12 {
+        width: 227px;
+        font-size: 10px;
+        line-height: 18px;
+    }
+    .besh2 {
+        bottom: 10%;
+        top: 55%;
+    }
+    .besh6 {
+        width: 254px;
+        height: 268px;
+        top: 14%;
+    }
+    .besh4 p {
+        font-size: 8px;
+        line-height: 13px;
+    }
+    .besh6 img{
+        width: 250px;
+        height: 264px;
+    }
+    .olti1 {
+        width: 258px;
+        height: 25px;
+        font-size: 18px;
+        line-height: 25px;
+    }
+    .olti2 {
+        width: 262px;
+        height: 20px;
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .olti3 {
+        width: 271px;
+        height: 26px;
+    }
+    .olti3 .olti31 {
+        font-size: 9px;
+        height: 21px;
+        width: 49px;
+        border-radius: 2px;
+    }
+    .yetti1 {
+        font-size: 20px;
+        width: 550px;
+    }
+    .yetti2 {
+        width: 550px;
+        font-size: 10px;
+        padding: 0px 55px;
+    }
+    .sakiz{
+        left: 20px;
+    }
+    .sakiz1{
+        display:none;
+    }
+    .toqiz {
+        line-height: 10px;
+    }
+    .toqiz11 {
+        height: 14px;
+        font-size: 20px;
+    }
+    .toqiz12 {
+        width: 161px;
+        height: 38px;
+        line-height: 14px;
+    }
+    .toqiz p {
+        font-size: 9px;
+        line-height: 17px;
+    }
+    .toqiz21 {
+        width: 65px;
+        font-size: 15px;
+        line-height: 10px;
+    }
+    .toqiz31 {
+        width: 65px;
+        font-size: 14px;
+        line-height: 11px;
+    }
+    .toqiz41 {
+        font-size: 15px;
+        line-height: 10px;
+    }
+}
+@media screen and (max-width:563px) {
+    .rasim5 .gul {
+        width: 76px;
+        height: 81px;
+    }
+    .yulduz img{
+        width: 11px;
+        height: 11px;
+    }
+    .pul p {
+        font-size: 9px;
+    }
+    .pul {
+        width: 93px;
+        height: 140px;
+    }
+    .pul2 {
+        width: 93px;
+        height: 140px;
+    }
+    .pul2 p {
+        font-size: 9px;
+    }
+    .our {
+        font-size: 17px;
+        width: 200px;
+        height: 25px;
+    }
+    .new {
+        padding: 20px 0px;
+    }
+    .arr {
+        gap: 5px;
+        width: 111px;
+        font-size: 11px;
+        height: 13px;
+    }
+    .plants {
+        width: 56px;
+        height: 12px;
+        font-size: 11px;
+        line-height: 13px;
+    }
+    .olti {
+        margin: 27px ;
+    }
+    .olti3 input {
+        height: 24px;
+        width: 222px;
+        font-size: 10px;
+    }
+    .olti4 img {
+        width: 120px;
+        height: 170px;
+    }
+    .yetti1 {
+        padding: 0px 0;
+        width: 536px;
+        height: 56px;
+        font-size: 15px;
+    }
+    .yetti2 {
+        width: 346px;
+        font-size: 10px;
+        padding: 0px ;
+        margin: 0 auto;
+        height: 30px;
+    }
+    .sakiz {
+        padding: 0;
+        margin: 0 auto;
+        width: 457px;
+    }
+    .sakiz img {
+        width: 97px;
+        height: 90px;
+    }
+    .toqiz {
+        line-height: 0px;
+    }
+    .toqiz3 {
+        width: 54px;
+    }
+    .toqiz11 {
+        height: 14px;
+        font-size: 18px;
+    }
+    .toqiz13 {
+        margin: 24px 0 0 0;
+        width: 26px;
+        height: 25px;
+        background: #a6c39962;
+    }
+    .toqiz21 {
+        width: 61px;
+        font-size: 13px;
+        line-height: 0px;
+        height: 17px;
+    }
+    .toqiz31 {
+        width: 48px;
+        font-size: 13px;
+        line-height: 0px;
+        height: 17px;
+    }
+    .toqiz41 {
+        font-size: 13px;
+        line-height: 0px;
+        height: 17px;
+    }
+}
+@media screen and (max-width:547px) {
+    .ikki {
+        padding: 40px 0px 50px 25px;
+    }
+    .we {
+        line-height: 20px;
+        width: 162px;
+        height: 70px;
+    }
+    .rasim31 {
+        width: 86px;
+        height: 94px;
+    }
+    .rasim311 img {
+        width: 86px;
+        height: 94px;
+    }
+    .rasim311 {
+        width: 86px;
+        height: 94px;
+    }
+    .rasim31 img {
+        width: 86px;
+        height: 94px;
+    }
+}
